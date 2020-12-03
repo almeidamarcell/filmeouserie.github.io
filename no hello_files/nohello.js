@@ -1,13 +1,11 @@
 var typed2 = new Typed('#strike', {
   strings: [
     'Oi, tudo bem?',
-    'ei',
     'como vai?',
     'bom dia!',
     'boa tarde',
     'namaste',
     'Boa noite!',
-    'aloha',
     'olá',
     'tá ai?',
     'tudo bem?',
