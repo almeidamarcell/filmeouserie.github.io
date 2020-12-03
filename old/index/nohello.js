@@ -1,6 +1,6 @@
 var typed2 = new Typed('#strike', {
   strings: [
-    'Oi, tudo bem',
+    'hello',
     'ei',
     'como vai?',
     'bom dia!',
