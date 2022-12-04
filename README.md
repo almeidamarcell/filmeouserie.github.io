@@ -1,3 +1,5 @@
-# Nada-de-tudo-bem.github.io
-Nada de tudo bem (no hello)
-v1
+# filmeouserie.xyz
+
+O bot que escolhe um filme ou série para você assistir. Baseado em no ChatGPT3
+
+V1.
