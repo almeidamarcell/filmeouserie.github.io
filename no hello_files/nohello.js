@@ -1,12 +1,7 @@
 var typed2 = new Typed('#strike', {
   strings: [
-    'um filme pra ficar de boinha no sofá',
-    'uma série para maratonar',
-    'um filme de ação',
-    'uma série de comédia pra relaxar',
-    'um filme clássico',
-    'um filme de terror',
-    'uma série com mais de 5 temporadas',
+    'um filme',
+    'uma série',
   ],
   typeSpeed: 80,
   backSpeed: 60,
