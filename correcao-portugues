@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <script type="text/javascript" async="" src="./no hello_files/analytics.js"></script><script async="" src="./no hello_files/js"></script>
+ 
+    <title>Filme ou Série IA | Eu escolho um filme ou série pra você</title>
+    <link rel="stylesheet" type="text/css" href="./no hello_files/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- primary meta -->
+    <meta name="title" content="Filme ou Série IA | Eu escolho um filme ou série pra você">
+    <meta name="description" content="Agora você pode ter uma AI que faz o trabalho 'pesado' pra você">
+
+    <!-- opengraph/facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://filmeouserie.xyz/">
+    <meta property="og:title" content="Filme ou Série IA | Eu escolho um filme ou série pra você">
+    <meta property="og:description" content="Agora você pode ter uma AI que faz o trabalho 'pesado' pra você">
+    <meta property="og:image" content="https://raw.githubusercontent.com/almeidamarcell/filmeouserie.github.io/60063d2e9a1d1ff8f23199893487a25fe704e640/thumbnail.png">
+
+    <!-- twitter -->
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:url" content="https://filmeouserie.xyz/">
+    <meta property="twitter:title" content="Filme ou Série IA | Eu escolho um filme ou série pra você">
+    <meta property="twitter:description" content="Agora você pode ter uma AI que faz o trabalho 'pesado' pra você">
+    <meta property="twitter:image" content="https://raw.githubusercontent.com/almeidamarcell/filmeouserie.github.io/60063d2e9a1d1ff8f23199893487a25fe704e640/thumbnail.png">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49538408-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49538408-1');
+</script>
+    
+  </head>
+  <body data-new-gr-c-s-check-loaded="14.984.0" data-gr-ext-installed="" class="vsc-initialized">
+    <div id="wholesite">
+      <div class="container">
+        <div class="hero">
+          <div id="plsstop">
+            <h1 class="name">
+              Eu escolho
+              <div id="strike"></div><span class="typed-cursor">|</span>
+            </h1>
+          </div>
+          <span class="subtitle">Agora você pode ter uma AI que faz o trabalho 'pesado' pra você</span>
+
+          <h2 class="lead">
+            Basta descrever o que você quer assistir e a inteligência artifical vai lhe ajudar. Quanto mais detalhes você der, melhor. Confia! ✨
+          </h2>
+        </div>
+      </div>
+
+      <script src="./no hello_files/typed.js@2.0.11"></script>
+      <script src="./no hello_files/nohello.js"></script>
+      <script src="./no hello_files/hello.js"></script>
+
+    <center>  <script SameSite="None; Secure" src="https://cdn.landbot.io/landbot-3/landbot-3.0.0.js"></script>
+<div id="myLandbot" style="width: 80%; height: 1000px"></div>
+<script>
+  var myLandbot = new Landbot.Container({
+    container: '#myLandbot',
+    configUrl: 'https://storage.googleapis.com/landbot.online/v3/H-1430753-J28DPFFJGO06ZCKL/index.json',
+  });
+</script>
+</center>
+      </div>
+
+         <footer class="container">
+        <span>
+ Essa intelig&ecirc;ncia &eacute; feita com a <a href="https://openai.com/blog/chatgpt/">ChatGPT</a> da <a href="https://openai.com/">OpenAI</a>.<br />
+<br />
+Feito por <a href="https://marcell.com.br/">Marcell Almeida</a> 04/12/16:16</p>
+
+      </footer>
+    </div><style type="text/css" data-typed-js-css="true">
+        .typed-cursor{
+          opacity: 1;
+        }
+        .typed-cursor.typed-cursor--blink{
+          animation: typedjsBlink 0.7s infinite;
+          -webkit-animation: typedjsBlink 0.7s infinite;
+                  animation: typedjsBlink 0.7s infinite;
+        }
+        @keyframes typedjsBlink{
+          50% { opacity: 0.0; }
+        }
+        @-webkit-keyframes typedjsBlink{
+          0% { opacity: 1; }
+          50% { opacity: 0.0; }
+          100% { opacity: 1; }
+        }
+      </style>
+ 
+
+</body></html>
